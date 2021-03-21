@@ -11,6 +11,7 @@ namespace TrainTicketBookingSystem.Controllers
         // GET: Booking
         public ActionResult Index()
         {
+            //Test Code
             return View();
         }
     }
